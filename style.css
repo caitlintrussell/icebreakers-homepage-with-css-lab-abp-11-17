@@ -81,7 +81,7 @@ div.questions a.btn {
   background-color: #007bff;
   border-color: #007bff;
   text-decoration: none;
-  padding: 18px; 
+  padding: 18px;
   font-size: 20px;
 }
 div.questions a.btn:hover {
@@ -91,7 +91,7 @@ div.questions a.btn:hover {
 
 /* Here starts the style for the footer */
 
-footer { 
+footer {
   border-top: 1px solid #cccccc;
   margin-top: 80px;
   padding-top: 20px;
